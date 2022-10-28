@@ -1,0 +1,6 @@
+﻿  Demo.cpp
+C:\Users\Lenovo\Downloads\Grafika Komputer dan Visualisasi new\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Lenovo\Downloads\Grafika Komputer dan Visualisasi new\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(259,8): warning C4101: 'treeZ': unreferenced local variable
+C:\Users\Lenovo\Downloads\Grafika Komputer dan Visualisasi new\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(258,8): warning C4101: 'treeX': unreferenced local variable
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Lesson06.vcxproj -> C:\Users\Lenovo\Downloads\Grafika Komputer dan Visualisasi new\Grafika Komputer dan Visualisasi\vs\Debug\Lesson06.exe
